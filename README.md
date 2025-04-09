@@ -1,3 +1,3 @@
 # BIOST 546 
 
-Contains code from assignments from this class.
+Contains the code for each assignment in this class. 
